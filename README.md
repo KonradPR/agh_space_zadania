@@ -7,6 +7,7 @@ W folderze (agh_space) znajdują się foldery z rozwiązaniami do zadań odpowie
  - `npm install`
  - `npm start`
  - Aplikacja powinna być dostępna na porcie 3000
+ - NIestety jako biedny student nie mam już aktywowanego billingu :(
  
  ## zadanie 2
  - Po wejściu do foldera z rozwiązaniem użyć kolejno komend:
